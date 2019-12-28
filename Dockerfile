@@ -15,6 +15,8 @@ RUN \
     set -x && \
     apt-get -y update && \
     apt-get install -y libpq-dev && \
-    docker-php-ext-install pdo pdo_pgsql
+    docker-php-ext-install pdo pdo_pgsql && \
+    apt-get -y purge cpp cpp-8 && \
+    apt-get -y autoremove
 
 
