@@ -10,6 +10,17 @@ From any directory, run:
 /path/to/build.sh
 ```
 
+## Maturity
+
+This project is in Beta stage.
+
+If you use it, please report any bug you may found.
+If you use it in production, please inform the maintainer so he knows that the 
+project is being used.
+Any feedback is welcome.
+
+To contact the maintainer, see the **Maintainer** section below.
+
 ## License
 
 Copyright 2019, Federico Razzoli
