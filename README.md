@@ -52,7 +52,7 @@ Copyright 2019, Federico Razzoli
 ## Maintainer
 
 Federico Razzoli
-Email: <hello@federico-razzoli.com>
-Website: https://federico-razzoli.com
+- Email: <hello@federico-razzoli.com>
+- Website: https://federico-razzoli.com
 
 
