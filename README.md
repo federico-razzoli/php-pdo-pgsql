@@ -2,14 +2,6 @@
 
 Docker image with PHP, PDO with PostgreSQL driver, and Apache web server.
 
-## Build
-
-From any directory, run:
-
-```
-/path/to/build.sh
-```
-
 ## Maturity
 
 This project is in Beta stage.
@@ -20,6 +12,14 @@ project is being used.
 Any feedback is welcome.
 
 To contact the maintainer, see the **Maintainer** section below.
+
+## Build
+
+From any directory, run:
+
+```
+/path/to/build.sh
+```
 
 ## License
 
