@@ -2,6 +2,15 @@
 
 Docker image with PHP, PDO with PostgreSQL driver, and Apache web server.
 
+## Project Goals
+
+The goal is to have a stable, simple, reasonably lightweight, single-purpose PHP
+image that is able to connect to PostgreSQL.
+
+Using the mainstream PHP image is fine, to keep the maintenance efforts low.
+The key is to support much less use cases, providing a ready-to-use tool.
+Making the image lighter (in terms of size and footprint) is a nice-to-have.
+
 ## Maturity
 
 This project is in Beta stage.
